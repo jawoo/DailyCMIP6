@@ -1,0 +1,1 @@
+https://data.chc.ucsb.edu/people/chris/CMIP6/deltas_by_model/pr/ACCESS-ESM1-5/SSP245_2030/ACCESS-ESM1-5_2030_SSP245_delta_pr.01.01.tif
