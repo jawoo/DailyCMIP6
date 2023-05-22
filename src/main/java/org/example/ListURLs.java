@@ -30,7 +30,6 @@ public class ListURLs
         };
         String[] dates = {
                 "01.01",
-                /*
                 "01.02",
                 "01.03",
                 "01.04",
@@ -395,7 +394,6 @@ public class ListURLs
                 "12.29",
                 "12.30",
                 "12.31"
-                */
         };
 
         // Output
